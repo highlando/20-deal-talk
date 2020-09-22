@@ -14,6 +14,7 @@
    * for Germany
    * in a reference year
    * with the big publishers
+
  * get the same publishing but Open Access
    * for Germany
    * in future 
@@ -30,16 +31,17 @@
  * DEALs were achieved with Springer and Wiley
    * Open Acces for most of their journals
    * on the base of the 2017 numbers
+
  * Elsevier still on stall
 
 # What is good
 
 ---
 
- * *Public funding, public research*
+ * *public funding, public research*
  * Open Access by default
- * In line with [Plan S](https://www.coalition-s.org/plan_s_principles/)
- * Control on publication costs
+ * in line with [Plan S](https://www.coalition-s.org/plan_s_principles/)
+ * control on publication costs
 
 
 # What is not 
@@ -47,11 +49,14 @@
 ---
 
  * it is APC based
-   * no money, no Open Access
+   * *no money, no Open Access*
+
  * it is article based
    * more articles processed, more money
+
  * libraries are out of the game
    * one layer of quality control less
+
  * favours large publishers
    * rewards previous overpricing
 
