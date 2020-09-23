@@ -1,6 +1,10 @@
-% The DEAL - what is up and what does it mean
-% Jan Heiland
-% September 23, 2020
+---
+title: The DEAL - what is up and what does it mean
+author: Jan Heiland
+date: MPI Coffee Lecture - September 23, 2020
+title-slide-attributes:
+    data-background-image: pics/coffee.jpg
+---
 
 # The DEAL
 
