@@ -1,1 +1,3 @@
-pandoc -t revealjs -s slides.md -o index.html
+pandoc -t revealjs -s slides.md \
+    -o index.html \
+    -V theme=league
